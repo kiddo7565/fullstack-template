@@ -1,5 +1,5 @@
 {
-  "name": "fullstack-template",
+  "name": "full-stack-template-demo",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -18,6 +18,6 @@
     "mongodb": "^4.7.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.18"
+    "nodemon": "^2.0.16"
   }
 }
